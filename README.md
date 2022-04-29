@@ -12,6 +12,9 @@ A 2–player tic-tac-toe game with win and draw validation
 
 
 ## How It's Made:
+
+[@alexisintech](https://github.com/alexisintech), [@Ethodeus](https://github.com/Ethodeus), [@bytesbybianca](https://github.com/bytesbybianca), [@LucasMERN](https://github.com/LucasMERN), [@brendondsouza](https://github.com/brendondsouza), [@20jasper](https://github.com/20jasper) and I collaborated to build this project. We split into two groups—one group built the win and draw condition validation algorithms while the other styled the site and added support for user input.
+
 <h2 align="center">Techs used:</h2>
 <br>
 <div align="center">
@@ -20,7 +23,7 @@ A 2–player tic-tac-toe game with win and draw validation
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
 </div>
 
-[@alexisintech](https://github.com/alexisintech), [@Ethodeus](https://github.com/Ethodeus), [@bytesbybianca](https://github.com/bytesbybianca), [@LucasMERN](https://github.com/LucasMERN), [@brendondsouza](https://github.com/brendondsouza), [@20jasper](https://github.com/20jasper) and I collaborated to build this project. We split into two groups—one group built the win and draw condition validation algorithms while the other styled the site and added support for user input.
+
 
 ## Lessons Learned:
 
