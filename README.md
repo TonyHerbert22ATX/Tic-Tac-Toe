@@ -1,8 +1,5 @@
-# 2 player tic-tac-toe
-
-A 2–player tic-tac-toe game with win and draw validation
-
 <h1 align="center">2–player Tic-Tac-Toe | <a href="https://tonyherbert22atx.github.io/Tic-Tac-Toe/">Visit here!</a></h1>
+<p>A 2–player tic-tac-toe game with win and draw validation</p>
 
 <div align="center">
 
